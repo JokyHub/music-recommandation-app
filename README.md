@@ -1,0 +1,1 @@
+The goal of this project is to classify songs based on genre and mood, using tags that reflect characteristics like genre, tempo, and lyrical themes. These tags can then drive a recommendation engine that suggests music to users based on their listening history, mood preferences, or specific activities.
